@@ -1,19 +1,3 @@
-# Hi, I'm flyl1u 👋
-
-写代码，做尝试，持续记录。
-
-欢迎来到我的 GitHub 主页。这里是我的个人空间，用来展示项目、记录学习，也收藏探索过程中的灵感。
-
-## 在这里
-
-- 🛠️ **项目与作品**：把想法变成可以使用的东西。
-- 📚 **学习与记录**：留下实践中的方法、经验与思考。
-- 🌱 **探索与实验**：保持好奇，尝试新的工具与方向。
-
-## 一起逛逛
-
-[查看我的项目](https://github.com/flyl1u?tab=repositories) · [看看我的收藏](https://github.com/flyl1u?tab=stars)
-
----
-
-感谢来访，欢迎通过项目的 Issues 交流想法。
+Hi, I'm flyl1u
+Currently, this place is empty and still under construction...
+[flyliu.org](https://flyliu.org)
