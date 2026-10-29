@@ -11,9 +11,9 @@ More about me：[flyliu.org](https://flyliu.org)
 
 - **[fly-island](https://github.com/flyl1u/fly-island)** - A lightweight Dynamic Island for PC, bringing notifications, clipboard history, quick translation, agent status, media controls, and to-dos together.
 - **[fly-brief](https://github.com/flyl1u/fly-brief)** - Turn brand collaboration briefs into concise, visual HTML pages that make requirements easy to understand.
-- **[fly-CodexPulse](https://github.com/flyl1u/fly-CodexPulse)** - Event-driven project sorting for Codex, running locally after each conversation turn with no extra model calls.
 - **[fly-becoming](https://github.com/flyl1u/fly-becoming)** - Reflections on life and the times, alongside notes on my products, content, and growth.
 - **[fly-favicon](https://github.com/flyl1u/fly-favicon)** - A Codex skill for designing SVG favicons with interactive previews to compare styles.
+- **[CodexPulse](https://github.com/flyl1u/CodexPulse)** - Event-driven project sorting for Codex, running locally after each conversation turn with no extra model calls.
 
 #### Contributing to:
 
