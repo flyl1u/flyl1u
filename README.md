@@ -9,8 +9,8 @@ More about me：[flyliu.org](https://flyliu.org)
 
 #### product:
 
--  **[fkimage](https://fkimage.fun)** -Discover and save curated prompts, and use the best models to generate images.
--  - **[fly-island](https://island.flyliu,org)** - A lightweight Dynamic Island for PC, bringing notifications, clipboard history, quick translation, agent status, media controls, and to-dos together.
+- **[fkimage](https://fkimage.fun)** -Discover and save curated prompts, and use the best models to generate images.
+- **[fly-island](https://island.flyliu,org)** - A lightweight Dynamic Island for PC, bringing notifications, clipboard history, quick translation, agent status, media controls, and to-dos together.
 
 #### Building:
 
