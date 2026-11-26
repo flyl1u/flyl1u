@@ -1,6 +1,7 @@
-### 你好，我是 flyliu 👋  
-我正在寻找Agent应用开发相关的实习机会，目前我在珠海，我可以持续实习3~6个月  
-个人网站：[flyliu.org](https://flyliu.org)
+## Hi,I am flyliu 👋  
+我正在寻找AI应用开发及AI产品经理相关的实习机会，目前我在珠海，可以持续实习3~6个月 
+
+#### 📍个人网站：[flyliu.org](https://flyliu.org)
 
 #### 联系我：
 
